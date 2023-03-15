@@ -18,3 +18,6 @@ This project can be used in a variety of applications. In audio and video proces
 
 The Sampling Rate Converter project is a powerful digital signal processing algorithm that can be used to convert the sampling rate of a digital signal from one frequency to another. The project is implemented using MATLAB, a high-level programming language that is widely used for scientific computing and technical computing applications. The project uses a variety of digital signal processing techniques to achieve its goal, including digital filter design, resampling algorithms, and reconstruction filters. The Sampling Rate Converter project is useful in a variety of applications, including audio and video processing, telecommunications, and image processing.
 
+
+
+
